@@ -17,7 +17,7 @@ Time series forecasting involves making predictions about future data points bas
 4. [Implementing ARIMA in Python](#implementing-arima-in-python)
 5. [Example Code](#example-code)
 6. [Conclusion](#conclusion)
-7. [References](#references)
+7. [References](#references) 
 
 ## What is ARIMA?
 ARIMA stands for AutoRegressive Integrated Moving Average. It combines three components:
