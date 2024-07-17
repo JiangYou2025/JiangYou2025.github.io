@@ -1,16 +1,10 @@
 # Introduction to Deep Learning for Time Series Forecasting
-Welcome to the Time Series Forecasting Lecture
+
+### Welcome to the Time Series Forecasting Lecture
 This lecture explores statistic and deep learning models in time series forecasting.
 
-[Github.io Page](https://jiangyou2025.github.io/)
+[Link to the Github.io Page](https://jiangyou2025.github.io/)
 
-<div class="hero" style="background-image: url('/assets/images/background.jpg');">
-  <div class="overlay">
-    <h1>Welcome to the Time Series Forecasting Lecture</h1>
-    <p>This lecture explores statistic and deep learning models in time series forecasting.</p>
-    <button onclick="scrollToSection('overview')">Learn More</button>
-  </div>
-</div>
 
 ## Overview
 <a name="overview"></a>
