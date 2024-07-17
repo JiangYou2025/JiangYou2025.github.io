@@ -5,7 +5,7 @@ permalink: /contact/
 
 # Contact Us
 
-For any inquiries or support, please feel free to contact us through the payment channels below.
+For any inquiries or support, please feel free to contact us through the donnation channels below.
 
 ## Payment Channels
 
