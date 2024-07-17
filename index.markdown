@@ -26,11 +26,11 @@ In this lecture, we cover the following key topics:
 
 This project is divided into several chapters, each focusing on a specific aspect of time series forecasting:
 
-2. [Chapter 0: Introduction to Time Series Forecasting](/documentation/chapter0/)
-1. [Chapter 1: Time Series Forecasting with Statistic Models](/documentation/chapter1/)
-1. [Chapter 2: Time Series Forecasting with Machine Learning Models](/documentation/chapter2/)
-2. [Chapter 3: Time Series Forecasting with Deep Learning Models](/documentation/chapter3/)
-2. [Chapter 4: Challenges and Opportunities in Time Series Forecasting](/documentation/chapter4/)
+1. [Chapter 1: Introduction to Time Series Forecasting](/documentation/chapter1/)
+2. [Chapter 2: Time Series Forecasting with Statistic Models](/documentation/chapter2/)
+3. [Chapter 3: Time Series Forecasting with Machine Learning Models](/documentation/chapter3/)
+4. [Chapter 4: Time Series Forecasting with Deep Learning Models](/documentation/chapter4/)
+5. [Chapter 5: Challenges and Opportunities in Time Series Forecasting](/documentation/chapter5/)
 
 ## Getting Started
 
@@ -49,6 +49,6 @@ Here are some additional resources to further your understanding of time series 
 <!---
 For any questions or feedback, please reach out to [our team](mailto:yourmail@gmail.com).
 -->
-For any questions or feedback, please reach out to our[Issues Page](https://github.com/JiangYou2025/JiangYou2025.github.io/issues).
+For any questions or feedback, please reach out to our [Issues Page](https://github.com/JiangYou2025/JiangYou2025.github.io/issues).
 
 Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
