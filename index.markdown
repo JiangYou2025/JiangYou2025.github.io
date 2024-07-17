@@ -46,9 +46,9 @@ Here are some additional resources to further your understanding of time series 
 - [Natural Language Processing with Python](https://www.oreilly.com/library/view/natural-language-processing/9780596516499/)
 
 ## Contact
-=begin
-For any questions or feedback, please reach out to [our team](mailto:jiangyou6666@gmail.com).
-=end
+<!---
+For any questions or feedback, please reach out to [our team](mailto:yourmail@gmail.com).
+-->
 For any questions or feedback, please reach out to our[Issues Page](https://github.com/JiangYou2025/JiangYou2025.github.io/issues).
 
 Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
