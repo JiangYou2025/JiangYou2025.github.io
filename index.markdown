@@ -30,7 +30,7 @@ This project is divided into several chapters, each focusing on a specific aspec
 1. [Chapter 1: Time Series Forecasting with Statistic Models](/documentation/chapter1/)
 1. [Chapter 2: Time Series Forecasting with Machine Learning Models](/documentation/chapter2/)
 2. [Chapter 3: Time Series Forecasting with Deep Learning Models](/documentation/chapter3/)
-2. [Chapter 4: Chanllenges and Opportunities in Time Series Forecasting](/documentation/chapter4/)
+2. [Chapter 4: Challenges and Opportunities in Time Series Forecasting](/documentation/chapter4/)
 
 ## Getting Started
 
