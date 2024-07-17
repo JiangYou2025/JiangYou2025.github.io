@@ -6,7 +6,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
 <div class="hero" style="background-image: url('/assets/images/background.jpg');">
   <div class="overlay">
     <h1>Welcome to the Time Series Forecasting Lecture</h1>
-    <p>This lecture explores statistic and deep learning models used in time series forecasting.</p>
+    <p>This lecture explores statistic and deep learning models in time series forecasting.</p>
     <button onclick="scrollToSection('overview')">Learn More</button>
   </div>
 </div>
