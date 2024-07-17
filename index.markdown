@@ -3,7 +3,7 @@ layout: page
 title: Time Series Forecasting in Machine Learning
 ---
 
-<div class="hero" style="background-image: url('/assets/images/background.png');">
+<div class="hero" style="background-image: url('/assets/images/background.jpg');">
   <div class="overlay">
     <h1>Welcome to the Time Series Forecasting Project</h1>
     <p>This project explores various techniques and methodologies used in time series forecasting, an essential aspect of machine learning.</p>
