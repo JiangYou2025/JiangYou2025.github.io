@@ -17,7 +17,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
 
 </div>
 
-<div  id="overview" class="content">
+<div id="overview" class="content">
   <div class="intro">
     <h2>Overview</h2>
     <p>In this lecture, we cover the following key topics:</p>
@@ -38,19 +38,12 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </ul>
 </div>
 
-## Chapters
 
-This project is divided into several chapters, each focusing on a specific aspect of time series forecasting:
+<div  class="content">
+    <h2>Getting Started</h2>
+    <p>To get started with this project, you can navigate to the chapters listed above. Each chapter provides in-depth information and examples to help you understand and apply time series forecasting techniques.</p>
+</div>
 
-1. [Chapter 1: Introduction to Time Series Forecasting](/documentation/chapter1/)
-2. [Chapter 2: Time Series Forecasting with Statistic Models](/documentation/chapter2/)
-3. [Chapter 3: Time Series Forecasting with Machine Learning Models](/documentation/chapter3/)
-4. [Chapter 4: Time Series Forecasting with Deep Learning Models](/documentation/chapter4/)
-5. [Chapter 5: Challenges and Opportunities in Time Series Forecasting](/documentation/chapter5/)
-
-## Getting Started
-
-To get started with this project, you can navigate to the chapters listed above. Each chapter provides in-depth information and examples to help you understand and apply time series forecasting techniques.
 
 <!--
 ## Resources
@@ -62,10 +55,18 @@ Here are some additional resources to further your understanding of time series 
 - [Natural Language Processing with Python](https://www.oreilly.com/library/view/natural-language-processing/9780596516499/)
 -->
 
-## Contact
+<div class="content">
+    <h2>Contact</h2>
+    <p>
+        For any questions or feedback, please reach out to our 
+        <a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a>.
+    </p>
+    <p>
+        Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
+    </p>
+</div>
+
+
 <!---
 For any questions or feedback, please reach out to [our team](mailto:yourmail@gmail.com).
 -->
-For any questions or feedback, please reach out to our [Issues Page](https://github.com/JiangYou2025/JiangYou2025.github.io/issues).
-
-Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
