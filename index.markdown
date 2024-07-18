@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: welcome-page
 title: Introduction to Deep Learning for Time Series Forecasting
 ---
 
@@ -11,16 +11,21 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </div>
 </div>
 
-## Overview
-<a name="overview"></a>
-Time series forecasting involves predicting future values based on previously observed values. This is crucial in numerous fields, including finance, weather prediction, and inventory management. 
+<div class="content">
+  <h1>Introduction to Deep Learning for Time Series Forecasting</h1>
+  <h2>Overview</h2>
+  <a name="overview"></a>
+  <p>Time series forecasting involves predicting future values based on previously observed values. This is crucial in numerous fields, including finance, weather prediction, and inventory management.</p>
 
-In this lecture, we cover the following key topics:
+  <p>In this lecture, we cover the following key topics:</p>
 
-- **Fundamentals of Time Series Forecasting**: Introduction to the core concepts and terminology.
-- **Statistic Techniques**: Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.
-- **Deep Learning Techniques**: Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer and State Space Model (SSM, Mamba).
-- **Practical Applications**: Real-world examples and applications of time series forecasting.
+  <ul>
+    <li><strong>Fundamentals of Time Series Forecasting</strong>: Introduction to the core concepts and terminology.</li>
+    <li><strong>Statistic Techniques</strong>: Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</li>
+    <li><strong>Deep Learning Techniques</strong>: Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).</li>
+    <li><strong>Practical Applications</strong>: Real-world examples and applications of time series forecasting.</li>
+  </ul>
+</div>
 
 ## Chapters
 
