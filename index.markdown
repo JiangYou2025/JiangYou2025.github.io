@@ -23,7 +23,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
     <p>In this lecture, we cover the following key topics:</p>
   </div>
    <ul>
-    <li><div class="list-content strong">Fundamentals of Time Series Forecasting</div>
+    <li><strong>Fundamentals of Time Series Forecasting</strong>
       <div class="list-content">Introduction to the core concepts and terminology.</div>
     </li>
     <li><strong>Statistic Techniques</strong>
