@@ -13,14 +13,13 @@ title: Introduction to Deep Learning for Time Series Forecasting
 
 <div class="content">
   <h1>Introduction to Deep Time Series Forecasting</h1>
-  <h2>Overview</h2>
-  <a name="overview"></a>
   <p>Time series forecasting involves predicting future values based on previously observed values. This is crucial in numerous fields, including finance, weather prediction, and inventory management.</p>
 
 </div>
 
-<div class="content">
+<div  id="overview" class="content">
   <div class="intro">
+    <h2>Overview</h2>
     <p>In this lecture, we cover the following key topics:</p>
   </div>
   <ul class="topics-list">
