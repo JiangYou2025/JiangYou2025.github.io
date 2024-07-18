@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+  <div class="container">
+    <aside class="sidebar">
+      <h2>Chapters</h2>
+      <ul>
+        <li>
+          <a href="javascript:void(0);" class="dropdown-btn">Chapter 1</a>
+          <div class="dropdown-container">
+            <a href="{{ '/documentation/chapter1/section1' | relative_url }}">Section 1</a>
+            <a href="{{ '/documentation/chapter1/section2' | relative_url }}">Section 2</a>
+            <a href="{{ '/documentation/chapter1/section3' | relative_url }}">Section 3</a>
+          </div>
+        </li>
+        <li>
+          <a href="javascript:void(0);" class="dropdown-btn">Chapter 2</a>
+          <div class="dropdown-container">
+            <a href="{{ '/documentation/chapter2/section1' | relative_url }}">Section 1</a>
+            <a href="{{ '/documentation/chapter2/section2' | relative_url }}">Section 2</a>
+            <a href="{{ '/documentation/chapter2/section3' | relative_url }}">Section 3</a>
+          </div>
+        </li>
+        <!-- Add more chapters and sections as needed -->
+      </ul>
+    </aside>
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+  <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+</body>
+</html>
