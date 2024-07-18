@@ -227,6 +227,7 @@ header nav ul .right {
   list-style-type: none;
   padding: 0;
   color: grey; /* Makes the list content text grey */
+  margin-bottom: 10px;
 }
 
 .topics-list li {

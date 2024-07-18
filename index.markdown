@@ -24,7 +24,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </div>
    <ul>
     <li><strong>Fundamentals of Time Series Forecasting</strong>
-      <div class="topics-list">Introduction to the core concepts and terminology.</div>
+      <div class="topics-list">Introduction to the core concepts and terminology, Nest-step Forecasting, Rolling Forecasting, Multistep Forecasting.</div>
     </li>
     <li><strong>Statistic Techniques</strong>
       <div class="topics-list">Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</div>
