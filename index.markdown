@@ -7,19 +7,23 @@ title: Introduction to Deep Learning for Time Series Forecasting
   <div class="overlay">
     <h1>Welcome to the Time Series Forecasting Lecture</h1>
     <p>This lecture explores statistic and deep learning models in time series forecasting.</p>
-    <button onclick="scrollToSection('overview')">Learn More</button>
+    <button onclick="scrollToDiv('overview')">Learn More</button>
   </div>
 </div>
 
 <div class="content">
-  <h1>Introduction to Deep Learning for Time Series Forecasting</h1>
+  <h1>Introduction to Deep Time Series Forecasting</h1>
   <h2>Overview</h2>
   <a name="overview"></a>
   <p>Time series forecasting involves predicting future values based on previously observed values. This is crucial in numerous fields, including finance, weather prediction, and inventory management.</p>
 
-  <p>In this lecture, we cover the following key topics:</p>
+</div>
 
-  <ul>
+<div class="content">
+  <div class="intro">
+    <p>In this lecture, we cover the following key topics:</p>
+  </div>
+  <ul class="topics-list">
     <li><strong>Fundamentals of Time Series Forecasting</strong>: Introduction to the core concepts and terminology.</li>
     <li><strong>Statistic Techniques</strong>: Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</li>
     <li><strong>Deep Learning Techniques</strong>: Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).</li>

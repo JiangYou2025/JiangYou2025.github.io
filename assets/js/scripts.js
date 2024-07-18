@@ -3,6 +3,10 @@ function scrollToSection(id) {
     document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
   }
   
+function scrollToDiv(divId) {
+    document.getElementById(divId).scrollIntoView({ behavior: 'smooth' });
+  }
+  
 document.addEventListener("DOMContentLoaded", function() {
   var dropdowns = document.getElementsByClassName("dropdown-btn");
   for (var i = 0; i < dropdowns.length; i++) {

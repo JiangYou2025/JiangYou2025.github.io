@@ -213,3 +213,27 @@ header nav ul .right {
 .content strong {
   font-weight: bold;
 }
+.content p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.intro {
+  margin-bottom: 20px;
+}
+
+.topics-list {
+  list-style-type: none;
+  padding: 0;
+  color: grey; /* Makes the list content text grey */
+}
+
+.topics-list li {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.topics-list strong {
+  font-weight: bold;
+}
