@@ -22,13 +22,19 @@ title: Introduction to Deep Learning for Time Series Forecasting
     <h2>Overview</h2>
     <p>In this lecture, we cover the following key topics:</p>
   </div>
-  <ul>
-    <li><strong>Fundamentals of Time Series Forecasting</strong>: 
-      <div class="topics-list">Introduction to the core concepts and terminology.</div>
+   <ul>
+    <li><div class="list-content strong">Fundamentals of Time Series Forecasting</div>
+      <div class="list-content">Introduction to the core concepts and terminology.</div>
     </li>
-    <li><strong>Statistic Techniques</strong>: Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</li>
-    <li><strong>Deep Learning Techniques</strong>: Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).</li>
-    <li><strong>Practical Applications</strong>: Real-world examples and applications of time series forecasting.</li>
+    <li><strong>Statistic Techniques</strong>
+      <div class="topics-list">Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</div>
+    </li>
+    <li><strong>Deep Learning Techniques</strong>
+      <div class="topics-list">Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).</div>
+    </li>
+    <li><strong>Practical Applications</strong>
+      <div class="topics-list">Real-world examples and applications of time series forecasting.</div>
+    </li>
   </ul>
 </div>
 
@@ -46,14 +52,15 @@ This project is divided into several chapters, each focusing on a specific aspec
 
 To get started with this project, you can navigate to the chapters listed above. Each chapter provides in-depth information and examples to help you understand and apply time series forecasting techniques.
 
+<!--
 ## Resources
-
 Here are some additional resources to further your understanding of time series forecasting:
 
 - [Time Series Analysis and Its Applications](https://www.springer.com/gp/book/9783319524511)
 - [Introduction to Time Series Forecasting with Python](https://www.oreilly.com/library/view/introduction-to-time/9781491969274/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Natural Language Processing with Python](https://www.oreilly.com/library/view/natural-language-processing/9780596516499/)
+-->
 
 ## Contact
 <!---
