@@ -4,6 +4,7 @@ title: Documentation
 permalink: /documentation/
 ---
 Welcome to the documentation. Please select a chapter from the sidebar.
+
 ## Chapters
 
 This project is divided into several chapters, each focusing on a specific aspect of time series forecasting:
