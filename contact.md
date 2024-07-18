@@ -3,11 +3,9 @@ layout: page
 permalink: /contact/
 ---
 
-# Contact Us
-
 For any inquiries or support, please feel free to contact us through the donnation channels below.
 
-## Payment Channels
+## Donnation  Channels
 
 <div class="payment-channels">
   <div class="payment-channel">
