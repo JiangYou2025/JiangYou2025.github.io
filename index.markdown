@@ -41,6 +41,9 @@ title: Introduction to Deep Learning for Time Series Forecasting
     </li>
   </ul>
   </div>
+  <figure>
+      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:600px;">
+  </figure>
 </div>
 
 <div  class="main-text">
