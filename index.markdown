@@ -49,7 +49,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
 <div  class="main-text">
     <h2>Getting Started</h2>
     <p>To get started with this project, you can navigate to the chapters listed above. Each chapter provides in-depth information and examples to help you understand and apply time series forecasting techniques.</p>
-    <button onclick="location.href={{'/lectures/' | relative_url}}">Lectures</button>
+    <button onclick="location.href={{'/lectures/' | relative_url}}" class="center">Lectures</button>
 </div>
 
 <div class="main-text">
