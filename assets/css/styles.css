@@ -229,6 +229,12 @@ header nav ul .right {
 .main-text topics-list strong {
   font-weight: bold;
 }
+.main-text topics-list gray {
+  list-style-type: none;
+  padding: 0;
+  color: grey; /* Makes the list content text grey */
+  margin-bottom: 10px;
+}
 
 .main-text button {
   display: inline-block;
