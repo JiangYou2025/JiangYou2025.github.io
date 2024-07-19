@@ -112,7 +112,7 @@ header nav ul .right {
     display: flex;
     justify-content: space-around;
     margin-top: 20px;
-  }
+  } 
   
   .payment-channel {
     text-align: center;
@@ -172,69 +172,60 @@ header nav ul .right {
     cursor: pointer;
   }
   
-  .content {
-    flex: 1;
-    padding: 20px;
-  }
 
 
-.content {
+.main-text {
   padding: 40px 20px;
   max-width: 800px;
   margin: 0 auto;
 }
 
-.content h1 {
+.main-text h1 {
   font-size: 2.5em;
   margin-bottom: 20px;
 }
 
-.content h2 {
+.main-text h2 {
   font-size: 2em;
   margin-bottom: 15px;
 }
 
-.content p {
+.main-text p {
   font-size: 1.2em;
   line-height: 1.6;
   margin-bottom: 20px;
 }
 
-.content ul {
+.main-text ul {
   list-style-type: none;
   padding: 0;
 }
 
-.content li {
+.main-text li {
   font-size: 1.2em;
   margin-bottom: 10px;
 }
 
-.content strong {
+.main-text strong {
   font-weight: bold;
-}
-.content p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  margin-bottom: 20px;
-}
+} 
 
 .intro {
   margin-bottom: 20px;
 }
 
-.topics-list {
+.main-text topics-list {
   list-style-type: none;
   padding: 0;
   color: grey; /* Makes the list content text grey */
   margin-bottom: 10px;
 }
 
-.topics-list li {
+.main-text topics-list li {
   font-size: 1.2em;
   margin-bottom: 30px;
 }
 
-.topics-list strong {
+.main-text topics-list strong {
   font-weight: bold;
 }
