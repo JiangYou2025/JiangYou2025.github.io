@@ -42,7 +42,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </ul>
   </div>
   <figure>
-      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:600px;" class="center">
+      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:400px;" class="center">
   </figure>
 </div>
 
@@ -63,7 +63,14 @@ title: Introduction to Deep Learning for Time Series Forecasting
     </p>
 </div>
  
-
-<!---
-For any questions or feedback, please reach out to [our team](mailto:yourmail@gmail.com).
--->
+<div class="social-buttons">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn linkedin">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank" class="btn twitter">
+    <i class="fab fa-twitter"></i> Twitter
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank" class="btn facebook">
+    <i class="fab fa-facebook"></i> Facebook
+  </a>
+</div>
