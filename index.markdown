@@ -63,6 +63,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
     </p>
 </div>
  
+<div class="main-text">
 <div class="social-buttons">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn linkedin">
     <i class="fab fa-linkedin"></i> LinkedIn
@@ -73,4 +74,5 @@ title: Introduction to Deep Learning for Time Series Forecasting
   <a href="https://www.facebook.com/yourprofile" target="_blank" class="btn facebook">
     <i class="fab fa-facebook"></i> Facebook
   </a>
+</div>
 </div>
