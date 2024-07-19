@@ -229,7 +229,8 @@ header nav ul .right {
 .main-text topics-list strong {
   font-weight: bold;
 }
-.main-text topics-list gray {
+
+.topics-list ul li gray {
   list-style-type: none;
   padding: 0;
   color: grey; /* Makes the list content text grey */
