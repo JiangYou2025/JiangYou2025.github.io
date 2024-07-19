@@ -229,7 +229,12 @@ header nav ul .right {
 .main-text topics-list strong {
   font-weight: bold;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .topics-list ul li gray {
   list-style-type: none;
   padding: 0;

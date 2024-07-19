@@ -16,7 +16,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
   <p>Time series forecasting involves predicting future values based on previously observed values. Temporal data is prevalent in numerous fields, including audio, voice, text, weather prediction, industry, and finance, where accurate forecasting is crucial for decision-making, optimizing operations, and strategic planning.</p>
 
   <figure>
-      <img src="{{ site.baseurl }}/assets/images/icon_timeseries.png" alt="Time Series Icons" style="width:100%; max-width:600px;">
+      <img src="{{ site.baseurl }}/assets/images/icon_timeseries.png" alt="Time Series Icons" style="width:100%; max-width:400px;" class="center">
   </figure>
 </div>
 
@@ -42,7 +42,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </ul>
   </div>
   <figure>
-      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:600px;">
+      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:600px;" class="center">
   </figure>
 </div>
 
