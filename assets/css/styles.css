@@ -229,3 +229,18 @@ header nav ul .right {
 .main-text topics-list strong {
   font-weight: bold;
 }
+.main-text button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007BFF;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.main-text button:hover {
+  background-color: #0056b3;
+}
