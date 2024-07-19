@@ -243,16 +243,18 @@ header nav ul .right {
 }
 
 .main-text button {
-  display: inline-block;
+  display: block;
   padding: 10px 20px;
   border: none;
-  font-size: 16px;
+  font-size: 18px;
   color: white;
   background-color: #007BFF;
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s;
+  margin: 10px auto; /* Center the button itself */
+  width: 180px; /* Set a specific width for the button */
 }
 
 .main-text button:hover {
