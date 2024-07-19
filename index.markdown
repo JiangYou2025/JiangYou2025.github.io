@@ -27,16 +27,16 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </div>
   <div class="topics-list">
   <ul>
-    <li><strong>Fundamentals of Time Series Forecasting</strong>
+    <li><strong>Fundamentals of Time Series Forecasting</strong> </br>
       Introduction to the core concepts and terminology, Nest-step Forecasting, Rolling Forecasting, Multistep Forecasting.
     </li>
-    <li><strong>Statistic Techniques</strong>
+    <li><strong>Statistic Techniques</strong> </br>
       Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.
     </li>
-    <li><strong>Deep Learning Techniques</strong>
+    <li><strong>Deep Learning Techniques</strong> </br>
       Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).
     </li>
-    <li><strong>Practical Applications</strong>
+    <li><strong>Practical Applications</strong> </br>
       Real-world examples and applications of time series forecasting.
     </li>
   </ul>
