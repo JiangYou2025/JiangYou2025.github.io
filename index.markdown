@@ -11,6 +11,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </div>
 </div>
 
+<div class="container">
 <div class="main-text">
   <h1>Introduction to Deep Time Series Forecasting</h1>
   <p>Time series forecasting involves predicting future values based on previously observed values. Temporal data is prevalent in numerous fields, including audio, voice, text, weather prediction, industry, and finance, where accurate forecasting is crucial for decision-making, optimizing operations, and strategic planning.</p>
@@ -63,6 +64,8 @@ title: Introduction to Deep Learning for Time Series Forecasting
     </p>
 </div>
  
+
+</div>
 
 <footer class="footer">
     <div class="footer-container">
