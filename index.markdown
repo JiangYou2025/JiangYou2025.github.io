@@ -76,3 +76,32 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </a>
 </div>
 </div>
+
+<footer class="footer">
+    <div class="footer-container">
+        <div class="main-text">
+            <h2>Contact</h2>
+            <p>
+                For any questions or feedback, please reach out to our 
+                <a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a>.
+            </p>
+            <p>
+                Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
+            </p>
+        </div>
+
+        <div class="main-text">
+            <div class="social-buttons">
+                <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn linkedin">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+                <a href="https://twitter.com/yourprofile" target="_blank" class="btn twitter">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="https://www.facebook.com/yourprofile" target="_blank" class="btn facebook">
+                    <i class="fab fa-facebook"></i> Facebook
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
