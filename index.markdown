@@ -62,12 +62,8 @@ title: Introduction to Deep Learning for Time Series Forecasting
             <img src="{{ site.baseurl }}/assets/images/time-series-forecaster-logo.png" alt="Logo" class="footer-logo">
             <p class="footer-text">Time Series Forecasting Lecture</p>
             <div class="social-buttons">
-                <img src="{{ site.baseurl }}/assets/images/linkedin-logo.jpg" href="https://discord.com" target="_blank" class="btn linkedin" style="width:100%; max-width:40px;">
-                    <i class="fab fa-linkedin"></i>
-                </img>
-                <a href="https://linkedin.com" target="_blank" class="btn linkedin">
-                    <i class="fab fa-linkedin"></i>
-                </a>
+                <img src="{{ site.baseurl }}/assets/images/linkedin-logo.jpg" href="https://linkedin.com" target="_blank" class="btn linkedin" style="width:100%; max-width:40px;">
+                <img src="{{ site.baseurl }}/assets/images/x-logo.jpg" href="https://x.com" target="_blank" class="btn x" style="width:100%; max-width:40px;">
             </div>
         </div>
         <div class="footer-section">
