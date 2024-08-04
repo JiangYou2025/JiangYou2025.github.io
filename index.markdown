@@ -56,52 +56,51 @@ title: Introduction to Deep Learning for Time Series Forecasting
     <h2>Contact</h2>
     <p>
         For any questions or feedback, please reach out to our 
-        <a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a>.
+        
     </p>
     <p>
         Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
     </p>
 </div>
  
-<div class="main-text">
-<div class="social-buttons">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn linkedin">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank" class="btn twitter">
-    <i class="fab fa-twitter"></i> Twitter
-  </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank" class="btn facebook">
-    <i class="fab fa-facebook"></i> Facebook
-  </a>
-</div>
-</div>
 
 <footer class="footer">
     <div class="footer-container">
-        <div class="main-text">
-            <h2>Contact</h2>
-            <p>
-                For any questions or feedback, please reach out to our 
-                <a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a>.
-            </p>
-            <p>
-                Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
-            </p>
-        </div>
-
-        <div class="main-text">
+        <div class="footer-section">
+            <img src="logo.png" alt="Logo" class="footer-logo">
+            <p class="footer-text">Time Series Forecasting Lecture</p>
             <div class="social-buttons">
-                <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn linkedin">
-                    <i class="fab fa-linkedin"></i> LinkedIn
+                <a href="https://discord.com" target="_blank" class="btn discord">
+                    <i class="fab fa-discord"></i>
                 </a>
-                <a href="https://twitter.com/yourprofile" target="_blank" class="btn twitter">
-                    <i class="fab fa-twitter"></i> Twitter
-                </a>
-                <a href="https://www.facebook.com/yourprofile" target="_blank" class="btn facebook">
-                    <i class="fab fa-facebook"></i> Facebook
+                <a href="https://linkedin.com" target="_blank" class="btn linkedin">
+                    <i class="fab fa-linkedin"></i>
                 </a>
             </div>
         </div>
+        <div class="footer-section">
+            <h3>LINKS</h3>
+            <ul>
+                <li><a href="#">Developers</a></li>
+                <li><a href="#">Technology</a></li>
+                <li><a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">News</a></li>
+            </ul>
+        </div>
+        <div class="footer-section">
+            <h3>ABOUT</h3>
+            <ul>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Terms of Use</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Data Processing Agreement</a></li>
+            </ul>
+        </div>
     </div>
+    <div class="footer-bottom">
+        <p>&copy; 2024 Time Series Forecasting Lecture, All rights reserved - <a href="#">Legal notice</a></p>
+    </div>
+</footer>
 </footer>

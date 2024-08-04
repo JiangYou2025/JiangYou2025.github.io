@@ -261,6 +261,7 @@ header nav ul .right {
   background-color: #0056b3;
 }
 
+
 .footer {
   background-color: #000;
   color: #fff;
@@ -277,26 +278,44 @@ header nav ul .right {
   justify-content: space-between;
 }
 
-.main-text {
+.footer-section {
+  flex: 1 1 200px;
   margin: 20px;
-  flex: 1 1 300px;
 }
 
-.main-text h2 {
-  font-size: 24px;
+.footer-logo {
+  width: 50px;
+  height: auto;
   margin-bottom: 10px;
 }
 
-.main-text p {
-  margin: 10px 0;
+.footer-text {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-.main-text a {
-  color: #1e90ff;
+.footer-section h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+  color: #fff;
   text-decoration: none;
 }
 
-.main-text a:hover {
+.footer-section ul li a:hover {
   text-decoration: underline;
 }
 
@@ -309,27 +328,35 @@ header nav ul .right {
 
 .social-buttons .btn {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px;
   color: #fff;
-  background-color: #333;
-  border-radius: 5px;
-  text-decoration: none;
-  font-size: 16px;
-  transition: background-color 0.3s ease;
+  font-size: 24px;
+  transition: color 0.3s ease;
 }
 
-.social-buttons .btn i {
-  margin-right: 8px;
+.social-buttons .btn.discord:hover {
+  color: #7289da;
 }
 
 .social-buttons .btn.linkedin:hover {
-  background-color: #0077b5;
+  color: #0077b5;
 }
 
-.social-buttons .btn.twitter:hover {
-  background-color: #1da1f2;
+.footer-bottom {
+  border-top: 1px solid #333;
+  margin-top: 20px;
+  padding-top: 10px;
 }
 
-.social-buttons .btn.facebook:hover {
-  background-color: #3b5998;
+.footer-bottom p {
+  margin: 0;
+}
+
+.footer-bottom p a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-bottom p a:hover {
+  text-decoration: underline;
 }
