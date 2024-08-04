@@ -5,9 +5,13 @@ body {
 }
 
 header {
-  background: #333;
-  color: #fff;
-  padding: 10px 0;
+position: fixed;
+top: 0;
+width: 100%;
+background: #333;
+color: #fff;
+padding: 10px 0;
+z-index: 1000; /* Ensure the header is above other content */
 }
 
 header nav ul {
