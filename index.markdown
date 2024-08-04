@@ -3,6 +3,7 @@ layout: welcome-page
 title: Introduction to Deep Learning for Time Series Forecasting
 ---
 
+<div class="container">
 <div class="hero" style="background-image: url('/assets/images/background.jpg');">
   <div class="overlay">
     <h1>Welcome to the Time Series Forecasting Lecture</h1>
@@ -11,7 +12,6 @@ title: Introduction to Deep Learning for Time Series Forecasting
   </div>
 </div>
 
-<div class="container">
 <div class="main-text">
   <h1>Introduction to Deep Time Series Forecasting</h1>
   <p>Time series forecasting involves predicting future values based on previously observed values. Temporal data is prevalent in numerous fields, including audio, voice, text, weather prediction, industry, and finance, where accurate forecasting is crucial for decision-making, optimizing operations, and strategic planning.</p>
@@ -62,8 +62,8 @@ title: Introduction to Deep Learning for Time Series Forecasting
             <img src="{{ site.baseurl }}/assets/images/time-series-forecaster-logo.png" alt="Logo" class="footer-logo">
             <p class="footer-text">Time Series Forecasting Lecture</p>
             <div class="social-buttons">
-                <img src="{{ site.baseurl }}/assets/images/linkedin-logo.jpg" href="https://discord.com" target="_blank" class="btn discord">
-                    <i class="fab fa-discord"></i>
+                <img src="{{ site.baseurl }}/assets/images/linkedin-logo.jpg" href="https://discord.com" target="_blank" class="btn linkedin" style="width:100%; max-width:40px;">
+                    <i class="fab fa-linkedin"></i>
                 </img>
                 <a href="https://linkedin.com" target="_blank" class="btn linkedin">
                     <i class="fab fa-linkedin"></i>
