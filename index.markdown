@@ -70,7 +70,7 @@ title: Introduction to Deep Learning for Time Series Forecasting
 <footer class="footer">
     <div class="footer-container">
         <div class="footer-section">
-            <img src="logo.png" alt="Logo" class="footer-logo">
+            <img src="{{ site.baseurl }}/assets/images/time-series-forecaster-logo.png" alt="Logo" class="footer-logo">
             <p class="footer-text">Time Series Forecasting Lecture</p>
             <div class="social-buttons">
                 <a href="https://discord.com" target="_blank" class="btn discord">
