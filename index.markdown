@@ -53,17 +53,6 @@ title: Introduction to Deep Learning for Time Series Forecasting
     <button onclick="location.href={{'/lectures/' | relative_url}}" class="center">Lectures</button>
 </div>
 
-<div class="main-text">
-    <h2>Contact</h2>
-    <p>
-        For any questions or feedback, please reach out to our 
-        
-    </p>
-    <p>
-        Thank you for exploring the Time Series Forecasting lecture. We hope you find the information useful and insightful.
-    </p>
-</div>
- 
 
 </div>
 

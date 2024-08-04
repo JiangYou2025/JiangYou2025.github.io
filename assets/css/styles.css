@@ -364,10 +364,7 @@ header nav ul .right {
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center content horizontally */
-  justify-content: center; /* Center content vertically */
   min-height: 100vh; /* Ensure the container takes at least the full viewport height */
   padding: 40px 20px; /* Apply padding */
-  text-align: center; /* Center text inside the container */
   box-sizing: border-box; /* Include padding in the element's total width and height */
 }
