@@ -106,4 +106,3 @@ title: Introduction to Deep Learning for Time Series Forecasting
         <p>&copy; 2024 Time Series Forecasting Lecture, All rights reserved - <a href="#">Legal notice</a></p>
     </div>
 </footer>
-</footer>
