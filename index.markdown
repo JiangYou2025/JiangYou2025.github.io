@@ -92,6 +92,9 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="pub-title">Enhancing Spatio-Temporal Forecasting with Spatial Neighbourhood Fusion: A Case Study on Mobility in Peru</p>
       <p class="authors">C. Li, <span class="me">J. You</span>, H. Moungla, V. Gauthier, M. Nunez-Del-Prado, et al.</p>
       <p class="venue">ICASSP 2026 — IEEE International Conference on Acoustics, Speech and Signal Processing, 2026</p>
+      <div class="pub-links">
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
+      </div>
     </div>
   </div>
 
@@ -103,6 +106,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="venue">arXiv preprint arXiv:2505.11902, 2025</p>
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2505.11902" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
       </div>
     </div>
   </div>
@@ -115,6 +119,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="venue">arXiv preprint arXiv:2507.00031, 2025</p>
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2507.00031" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
       </div>
     </div>
   </div>
@@ -128,6 +133,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2401.01479" target="_blank" rel="noopener">arXiv</a>
         <a href="https://github.com/JiangYou2025/kun" target="_blank" rel="noopener">Code</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
       </div>
     </div>
   </div>
@@ -138,6 +144,9 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="pub-title">Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon</p>
       <p class="authors"><span class="me">J. You</span>, A. Cela, R. Natowicz, J. Ouanounou, P. Siarry</p>
       <p class="venue">2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (ICCP), 2024</p>
+      <div class="pub-links">
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
+      </div>
     </div>
   </div>
 
@@ -149,6 +158,20 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="venue">arXiv preprint arXiv:2406.13871, 2024</p>
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2406.13871" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="thumb">arXiv<br>2024</div>
+    <div class="meta">
+      <p class="pub-title">Kernel-U-Net: Hierarchical and Symmetrical Framework for Multivariate Time Series Forecasting</p>
+      <p class="authors"><span class="me">J. You</span>, R. Natowicz, A. Cela, J. Ouanounou, P. Siarry</p>
+      <p class="venue">arXiv preprint arXiv:2401.01479, 2024</p>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2401.01479" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
       </div>
     </div>
   </div>
@@ -161,6 +184,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="venue">arXiv preprint arXiv:2410.02438, 2024</p>
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2410.02438" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
       </div>
     </div>
   </div>
@@ -171,6 +195,9 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       <p class="pub-title">Time Series Forecasting, Anomaly Detection and Prediction</p>
       <p class="authors"><span class="me">J. You</span></p>
       <p class="venue">PhD Thesis, Université Paris-Est Créteil Val-de-Marne, 2024</p>
+      <div class="pub-links">
+        <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Scholar</a>
+      </div>
     </div>
   </div>
 
