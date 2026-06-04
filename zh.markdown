@@ -2,13 +2,13 @@
 layout: default
 title: "主页"
 permalink: /zh/
-description: 蒋尤个人主页 — 时间序列预测、异常检测与预测的深度学习研究。
+description: 尤江个人主页 — 时间序列预测、异常检测与预测的深度学习研究。
 ---
 
 <header class="wrap profile" id="top">
   <div class="avatar">JY</div>
   <div class="intro">
-    <h1>蒋尤 (Jiang You)</h1>
+    <h1>尤江 (Jiang You)</h1>
     <p class="title">研究员</p>
     <p class="affiliation">ESIEE Paris, Université Gustave Eiffel</p>
     <p class="tagline">
