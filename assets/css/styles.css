@@ -76,6 +76,28 @@ a:hover { text-decoration: underline; }
   text-decoration: none;
 }
 
+/* ---------- Language switch ---------- */
+.lang-switch {
+  display: flex;
+  gap: 4px;
+  margin-left: 8px;
+  padding-left: 12px;
+  border-left: 1px solid var(--border);
+}
+.lang-btn {
+  font-size: 0.82rem !important;
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  color: var(--muted) !important;
+}
+.lang-btn.active {
+  background: var(--accent);
+  color: #fff !important;
+  border-color: var(--accent);
+}
+.lang-btn:hover { text-decoration: none !important; opacity: 0.85; }
+
 /* ---------- Page wrapper ---------- */
 .wrap {
   max-width: var(--max-width);

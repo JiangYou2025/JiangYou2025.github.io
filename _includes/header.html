@@ -2,10 +2,26 @@
   <div class="nav-inner">
     <a class="brand" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
     <ul class="nav-links">
+      {% if page.permalink == '/zh/' %}
+      <li><a href="{{ '/zh/#about' | relative_url }}">关于</a></li>
+      <li><a href="{{ '/zh/#news' | relative_url }}">动态</a></li>
+      <li><a href="{{ '/zh/#publications' | relative_url }}">论文</a></li>
+      <li><a href="{{ '/zh/#teaching' | relative_url }}">教学</a></li>
+      {% else %}
       <li><a href="{{ '/#about' | relative_url }}">About</a></li>
       <li><a href="{{ '/#news' | relative_url }}">News</a></li>
       <li><a href="{{ '/#publications' | relative_url }}">Publications</a></li>
       <li><a href="{{ '/#teaching' | relative_url }}">Teaching</a></li>
+      {% endif %}
+      <li class="lang-switch">
+        {% if page.permalink == '/zh/' %}
+        <a href="{{ '/' | relative_url }}" class="lang-btn">EN</a>
+        <a href="{{ '/zh/' | relative_url }}" class="lang-btn active">中文</a>
+        {% else %}
+        <a href="{{ '/' | relative_url }}" class="lang-btn active">EN</a>
+        <a href="{{ '/zh/' | relative_url }}" class="lang-btn">中文</a>
+        {% endif %}
+      </li>
     </ul>
   </div>
 </nav>
