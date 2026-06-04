@@ -181,12 +181,16 @@ description: Personal homepage of Jiang You — research on deep learning for ti
   <h2>Teaching</h2>
 
   <div class="teaching-item">
-    <p class="role">Deep Learning for Time Series Forecasting <span class="when">— Lecturer, 2025</span></p>
-    <p>Graduate course covering statistical and deep learning models for temporal data.</p>
+    <p class="role">Time Series Analysis &amp; Forecasting <span class="when">— TP, ESIEE Paris, 2021–2026</span></p>
+    <p>Practical sessions (TP) on statistical and deep learning methods for time series data.</p>
   </div>
   <div class="teaching-item">
-    <p class="role">Machine Learning Fundamentals <span class="when">— Teaching Assistant</span></p>
-    <p>Tutorials and lab sessions.</p>
+    <p class="role">Deep Learning <span class="when">— TP, ESIEE Paris, 2021–2026</span></p>
+    <p>Practical sessions (TP) covering neural network architectures, training, and applications.</p>
+  </div>
+  <div class="teaching-item">
+    <p class="role">Reinforcement Learning <span class="when">— TP, ESIEE Paris, 2021–2026</span></p>
+    <p>Practical sessions (TP) on MDPs, policy gradients, Q-learning, and deep RL.</p>
   </div>
 </section>
 
