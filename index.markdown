@@ -76,7 +76,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
       </tr>
       <tr>
         <td class="date">2024</td>
-        <td>Two papers presented at <strong>INIITS 2024</strong> and <strong>ICIC 2024</strong>.</td>
+        <td>Two papers presented at <strong>INISTA 2024</strong> and <strong>ICCP 2024</strong>.</td>
       </tr>
     </table>
   </div>
@@ -120,11 +120,11 @@ description: Personal homepage of Jiang You — research on deep learning for ti
   </div>
 
   <div class="pub">
-    <div class="thumb">INIITS<br>2024</div>
+    <div class="thumb">INISTA<br>2024</div>
     <div class="meta">
       <p class="pub-title">Kernel-U-Net: Multivariate Time Series Forecasting Using Custom Kernels</p>
       <p class="authors"><span class="me">J. You</span>, A. Cela, R. Natowicz, J. Ouanounou, P. Siarry</p>
-      <p class="venue">2024 International Conference on INnovations in Intelligent SysTems and Applications (INIITS), 2024</p>
+      <p class="venue">2024 International Conference on INnovations in Intelligent SysTems and Applications (INISTA), 2024</p>
       <div class="pub-links">
         <a href="https://arxiv.org/abs/2401.01479" target="_blank" rel="noopener">arXiv</a>
         <a href="https://github.com/JiangYou2025/kun" target="_blank" rel="noopener">Code</a>
@@ -133,11 +133,11 @@ description: Personal homepage of Jiang You — research on deep learning for ti
   </div>
 
   <div class="pub">
-    <div class="thumb">ICIC<br>2024</div>
+    <div class="thumb">ICCP<br>2024</div>
     <div class="meta">
       <p class="pub-title">Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon</p>
       <p class="authors"><span class="me">J. You</span>, A. Cela, R. Natowicz, J. Ouanounou, P. Siarry</p>
-      <p class="venue">2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (ICIC), 2024</p>
+      <p class="venue">2024 IEEE 20th International Conference on Intelligent Computer Communication and Processing (ICCP), 2024</p>
     </div>
   </div>
 
