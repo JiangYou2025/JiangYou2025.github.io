@@ -3,14 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - {{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.author.name }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
 <body>
   {% include header.html %}
-  <div class="content">
+  <main>
     {{ content }}
-  </div>
+  </main>
+  {% include footer.html %}
   <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
 </body>
 </html>

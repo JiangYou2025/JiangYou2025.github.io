@@ -1,93 +1,126 @@
 ---
-layout: welcome-page
-title: Introduction to Deep Learning for Time Series Forecasting
+layout: default
+title: Home
+description: Personal homepage of Jiang You — research on deep learning for time series forecasting.
 ---
 
-<div class="container">
-<div class="hero" style="background-image: url('/assets/images/background.jpg');">
-  <div class="overlay">
-    <h1>Welcome to the Time Series Forecasting Lecture</h1>
-    <p>This lecture explores statistic and deep learning models in time series forecasting.</p>
-    <button onclick="scrollToDiv('overview')">Learn More</button>
-  </div>
-</div>
-
-<div class="main-text">
-  <h1>Introduction to Deep Time Series Forecasting</h1>
-  <p>Time series forecasting involves predicting future values based on previously observed values. Temporal data is prevalent in numerous fields, including audio, voice, text, weather prediction, industry, and finance, where accurate forecasting is crucial for decision-making, optimizing operations, and strategic planning.</p>
-
-  <figure>
-      <img src="{{ site.baseurl }}/assets/images/icon_timeseries.png" alt="Time Series Icons" style="width:100%; max-width:400px;" class="center">
-  </figure>
-</div>
-
-<div id="overview" class="main-text">
+<!-- ============================================================
+     PROFILE HEADER
+     To use a real photo: drop it at assets/images/profile.jpg and
+     replace the <div class="avatar">JY</div> below with:
+     <img class="avatar" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Jiang You">
+     ============================================================ -->
+<header class="wrap profile" id="top">
+  <div class="avatar">JY</div>
   <div class="intro">
-    <h2>Overview</h2>
-    <p>In this lecture, we cover the following key topics:</p>
+    <h1>{{ site.author.name }}</h1>
+    <p class="title">{{ site.author.title }}</p>
+    <p class="affiliation">{{ site.author.affiliation }}</p>
+    <p class="tagline">
+      I work on deep learning for time series forecasting — sequence models
+      (Transformers, state space models / Mamba), and their applications to
+      real-world temporal data. <!-- EDIT: rewrite this one-line pitch. -->
+    </p>
+    <div class="links">
+      <a href="mailto:{{ site.author.email }}">✉ Email</a>
+      <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">🎓 Google Scholar</a>
+      <a href="{{ site.author.github }}" target="_blank" rel="noopener">⌨ GitHub</a>
+      <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener">in LinkedIn</a>
+      <a href="{{ '/assets/cv.pdf' | relative_url }}" target="_blank" rel="noopener">📄 CV</a>
+    </div>
   </div>
-  <div class="topics-list">
-  <ul>
-    <li><strong>Fundamentals of Time Series Forecasting</strong> <br/>
-      <gray>Introduction to the core concepts and terminology, Nest-step Forecasting, Rolling Forecasting, Multistep Forecasting.</gray>
-    </li>
-    <li><strong>Statistic Techniques</strong> <br/>
-      <gray>Overview of popular forecasting methods such as AutoRegressive Moving Average, and ARIMA, Support Vector Regressor.</gray>
-    </li>
-    <li><strong>Deep Learning Techniques</strong> <br/>
-      <gray>Overview of popular forecasting methods such as Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Long-Short Term Memory (LSTM), Transformer, and State Space Model (SSM, Mamba).</gray>
-    </li>
-    <li><strong>Practical Applications</strong> <br/>
-      <gray>Real-world examples and applications of time series forecasting.</gray>
-    </li>
+</header>
+
+<div class="wrap">
+
+<!-- ============================================================ ABOUT -->
+<section id="about">
+  <h2>About</h2>
+  <p>
+    I am a {{ site.author.title | downcase }} at {{ site.author.affiliation }}.
+    My research focuses on building accurate and efficient models for
+    forecasting temporal data, which appears across finance, energy, weather,
+    industry, and the sciences.
+    <!-- EDIT: 2–3 sentences about your background and what drives your work. -->
+  </p>
+  <p>Research interests:</p>
+  <ul class="research-interests">
+    <li>Deep learning for time series forecasting</li>
+    <li>Sequence models: Transformers, state space models (Mamba), RNNs</li>
+    <li>Representation learning &amp; foundation models for temporal data</li>
+    <li>Applications: energy, finance, and industrial monitoring</li>
   </ul>
+</section>
+
+<!-- ============================================================ NEWS -->
+<section id="news">
+  <h2>News</h2>
+  <div class="news">
+    <table>
+      <!-- EDIT: add newest items at the top. -->
+      <tr>
+        <td class="date">2026-05</td>
+        <td>New paper submitted on efficient long-horizon forecasting. <em>(placeholder)</em></td>
+      </tr>
+      <tr>
+        <td class="date">2025-11</td>
+        <td>Gave a talk on state space models for time series. <em>(placeholder)</em></td>
+      </tr>
+      <tr>
+        <td class="date">2025-06</td>
+        <td>Started research on deep learning for time series forecasting. <em>(placeholder)</em></td>
+      </tr>
+    </table>
   </div>
-  <figure>
-      <img src="{{ site.baseurl }}/assets/images/unet_structure.png" alt="Time Series Icons" style="width:100%; max-width:400px;" class="center">
-  </figure>
-</div>
+</section>
 
-<div  class="main-text">
-    <h2>Getting Started</h2>
-    <p>To get started with this project, you can navigate to the chapters listed above. Each chapter provides in-depth information and examples to help you understand and apply time series forecasting techniques.</p>
-    <button onclick="location.href={{'/lectures/' | relative_url}}" class="center">Lectures</button>
-</div>
+<!-- ============================================================ PUBLICATIONS -->
+<section id="publications">
+  <h2>Publications</h2>
 
-
-</div>
-
-<footer class="footer">
-    <div class="footer-container">
-        <div class="footer-section">
-            <img src="{{ site.baseurl }}/assets/images/time-series-forecaster-logo.png" alt="Logo" class="footer-logo">
-            <p class="footer-text">Time Series Forecasting Lecture</p>
-            <div class="social-buttons">
-                <img src="{{ site.baseurl }}/assets/images/linkedin-logo.jpg" href="https://linkedin.com" target="_blank" class="btn linkedin" style="width:100%; max-width:40px;">
-                <img src="{{ site.baseurl }}/assets/images/x-logo.jpg" href="https://x.com" target="_blank" class="btn x" style="width:100%; max-width:40px;">
-            </div>
-        </div>
-        <div class="footer-section">
-            <h3>LINKS</h3>
-            <ul>
-                <li><a href="#">Developers</a></li>
-                <li><a href="#">Technology</a></li>
-                <li><a href="https://github.com/JiangYou2025/JiangYou2025.github.io/issues">Issues Page</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">News</a></li>
-            </ul>
-        </div>
-        <div class="footer-section">
-            <h3>ABOUT</h3>
-            <ul>
-                <li><a href="#">Contact Us</a></li>
-                <li><a href="#">Careers</a></li>
-                <li><a href="#">Terms of Use</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Data Processing Agreement</a></li>
-            </ul>
-        </div>
+  <!-- EDIT: duplicate a .pub block per paper. Use class="me" on your own name. -->
+  <div class="pub">
+    <div class="thumb">paper<br>figure</div>
+    <div class="meta">
+      <p class="pub-title">Title of your first paper goes here</p>
+      <p class="authors"><span class="me">Jiang You</span>, Co-author A, Co-author B</p>
+      <p class="venue">Conference / Journal, Year</p>
+      <div class="pub-links">
+        <a href="#">PDF</a>
+        <a href="#">arXiv</a>
+        <a href="#">Code</a>
+        <a href="#">BibTeX</a>
+      </div>
     </div>
-    <div class="footer-bottom">
-        <p>&copy; 2024 Time Series Forecasting Lecture, All rights reserved - <a href="#">Legal notice</a></p>
+  </div>
+
+  <div class="pub">
+    <div class="thumb">paper<br>figure</div>
+    <div class="meta">
+      <p class="pub-title">Title of your second paper goes here</p>
+      <p class="authors">Co-author A, <span class="me">Jiang You</span>, Co-author B</p>
+      <p class="venue">Workshop / Preprint, Year</p>
+      <div class="pub-links">
+        <a href="#">PDF</a>
+        <a href="#">arXiv</a>
+      </div>
     </div>
-</footer>
+  </div>
+</section>
+
+<!-- ============================================================ TEACHING -->
+<section id="teaching">
+  <h2>Teaching</h2>
+
+  <!-- EDIT: list courses you teach or assist. -->
+  <div class="teaching-item">
+    <p class="role">Deep Learning for Time Series Forecasting <span class="when">— Lecturer, 2025</span></p>
+    <p>Graduate course covering statistical and deep learning models for temporal data.</p>
+  </div>
+  <div class="teaching-item">
+    <p class="role">Machine Learning Fundamentals <span class="when">— Teaching Assistant</span></p>
+    <p>Tutorials and lab sessions. <em>(placeholder)</em></p>
+  </div>
+</section>
+
+</div>

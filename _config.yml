@@ -1,5 +1,22 @@
-title: My NLP Course
-description: This is an NLP course webpage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://your-username.github.io" # the base hostname & protocol for your site
+title: Jiang You
+description: "Personal homepage — research on deep learning for time series forecasting."
+baseurl: ""
+url: "https://jiangyou2025.github.io"
+
+# Author info — edit these and they update across the whole site.
+author:
+  name: Jiang You
+  title: Research Scientist
+  affiliation: ESIEE Paris, Université Gustave Eiffel
+  email: jiang.you.esiee@gmail.com
+  scholar: "https://scholar.google.com/"          # EDIT: your Scholar profile URL
+  github: "https://github.com/JiangYou2025"
+  linkedin: "https://www.linkedin.com/"            # EDIT: your LinkedIn URL
+
+# Jekyll
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

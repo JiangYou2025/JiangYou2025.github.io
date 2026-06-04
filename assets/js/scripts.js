@@ -1,23 +1,13 @@
-// Custom JavaScript can be added here
-function scrollToSection(id) {
-    document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
-  }
-  
-function scrollToDiv(divId) {
-    document.getElementById(divId).scrollIntoView({ behavior: 'smooth' });
-  }
-  
-document.addEventListener("DOMContentLoaded", function() {
-  var dropdowns = document.getElementsByClassName("dropdown-btn");
-  for (var i = 0; i < dropdowns.length; i++) {
-    dropdowns[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var dropdownContent = this.nextElementSibling;
-      if (dropdownContent.style.display === "block") {
-        dropdownContent.style.display = "none";
-      } else {
-        dropdownContent.style.display = "block";
+// Smooth-scroll for in-page anchor links (About / News / Publications / Teaching).
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href^="#"], a[href*="/#"]').forEach(function (link) {
+    link.addEventListener("click", function (e) {
+      var hash = this.hash;
+      if (hash && document.querySelector(hash)) {
+        e.preventDefault();
+        document.querySelector(hash).scrollIntoView({ behavior: "smooth" });
+        history.replaceState(null, "", hash);
       }
     });
-  }
+  });
 });
