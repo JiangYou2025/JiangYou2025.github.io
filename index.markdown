@@ -208,8 +208,8 @@ description: Personal homepage of Jiang You — research on deep learning for ti
   <h2>Teaching</h2>
 
   <div class="teaching-item">
-    <p class="role">Time Series Analysis &amp; Forecasting <span class="when">— TP, ESIEE Paris, 2021–2026</span></p>
-    <p>Practical sessions (TP) on statistical and deep learning methods for time series data.</p>
+    <p class="role">Time Series Analysis &amp; Forecasting <span class="when">— Lecture + TP, ESIEE Paris, 2021–2026</span></p>
+    <p>Lectures and practical sessions (TP) on statistical and deep learning methods for time series data.</p>
   </div>
   <div class="teaching-item">
     <p class="role">Deep Learning <span class="when">— TP, ESIEE Paris, 2021–2026</span></p>

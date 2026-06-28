@@ -192,8 +192,8 @@ description: 尤江个人主页 — 时间序列预测、异常检测与预测�
   <h2>教学</h2>
 
   <div class="teaching-item">
-    <p class="role">时间序列分析与预测 <span class="when">— 实验课 (TP), ESIEE Paris, 2021–2026</span></p>
-    <p>统计与深度学习方法在时间序列数据上的实践。</p>
+    <p class="role">时间序列分析与预测 <span class="when">— Lecture + 实验课 (TP), ESIEE Paris, 2021–2026</span></p>
+    <p>统计与深度学习方法在时间序列数据上的讲授与实践。</p>
   </div>
   <div class="teaching-item">
     <p class="role">深度学习 <span class="when">— 实验课 (TP), ESIEE Paris, 2021–2026</span></p>
