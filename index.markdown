@@ -11,7 +11,7 @@ description: Personal homepage of Jiang You — research on deep learning for ti
      <img class="avatar" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Jiang You">
      ============================================================ -->
 <header class="wrap profile" id="top">
-  <div class="avatar">JY</div>
+  <img class="avatar" src="{{ '/assets/images/image.png' | relative_url }}" alt="Jiang You">
   <div class="intro">
     <h1>{{ site.author.name }}</h1>
     <p class="title">{{ site.author.title }}</p>

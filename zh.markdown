@@ -6,7 +6,7 @@ description: 尤江个人主页 — 时间序列预测、异常检测与预测�
 ---
 
 <header class="wrap profile" id="top">
-  <div class="avatar">JY</div>
+  <img class="avatar" src="{{ '/assets/images/image.png' | relative_url }}" alt="尤江 Jiang You">
   <div class="intro">
     <h1>尤江 (Jiang You)</h1>
     <p class="title">研究员</p>
